@@ -1,8 +1,6 @@
 # Food Ordering App Built Using MERN Stack!
+
 [food ordering app screenshot](https://user-images.githubusercontent.com/50160672/180350693-92a71ecb-7672-49b1-8943-188e96d13ee6.png)
-
-
-For a tutorial, please watch [this video](https://www.youtube.com/watch?v=x4dIga_3S4I).
 
 ## Available Scripts
 
@@ -18,7 +16,7 @@ Afterwards, start the server from the server folder by running:
 
 ### `node index.js`
 
-or 
+or
 
 ### `nodemon index.js`
 
@@ -32,6 +30,7 @@ Go back to the project directory, you can run:
 ## Environment variables
 
 To store your environment variables, you can create `.env` file in the root of your project and fill in the following values:
+
 ```
 STRIPE_SECRET_KEY=""
 STRIPE_WEBHOOK_SECRET=""
